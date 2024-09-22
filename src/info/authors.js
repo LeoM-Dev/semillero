@@ -30,10 +30,10 @@ const authors = [
         cargo: 'Estudiante'
     },
     {
-        photo: '/img/Alba.JPG',
-        nombre: 'Alba',
+        photo: '/img/Javith.jpg',
+        nombre: 'Javith',
         description: '',
-        cargo: 'Docente'
+        cargo: 'Estudiante'
     },
     {
         photo: '/img/Edgar.JPG',
@@ -41,6 +41,12 @@ const authors = [
         description: '',
         cargo: 'Docente'
     },
+    {
+        photo: '/img/Alba.JPG',
+        nombre: 'Alba',
+        description: '',
+        cargo: 'Docente'
+    },	
 ]
 
 export default authors
